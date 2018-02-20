@@ -10,7 +10,7 @@
     <br><br>
 
     <?
-    $cars = array('Honda', 'Toyota');
+    $cars = array('Honda', 'Toyota', 'Nisan');
 
 
 
