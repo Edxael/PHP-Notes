@@ -6,19 +6,16 @@
   </head>
   <body>
     <h1>Runing PHP</h1>
-    <p>Here is the code.. again.</p>
+    <p>Here is the code.. Feb 20, 2018.</p>
     <br><br>
 
     <?
-    $cars = array('Honda', 'Toyota', 'Nisan');
+    $cars = array('make' => 'toyota', 'model' => 'Exterra', 'color' => 'Black');
 
-
+    echo $cars['model'];
 
     ?>
 
 
   </body>
 </html>
-
-
-	  .
