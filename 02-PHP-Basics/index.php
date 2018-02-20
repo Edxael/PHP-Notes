@@ -10,12 +10,15 @@
     <br><br>
 
     <?
-    $x = 5;
+    $cars = array('Honda', 'Toyota');
 
-    echo "The variable is: ", $x;
-    // echo $x;
+
+
     ?>
 
 
   </body>
 </html>
+
+
+	  .
